@@ -1,0 +1,2 @@
+class Appreciation < ApplicationRecord
+end
