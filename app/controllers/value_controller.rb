@@ -1,0 +1,2 @@
+class ValueController < ApplicationController
+end
